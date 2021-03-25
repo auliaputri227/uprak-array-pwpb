@@ -145,7 +145,7 @@ include 'koneksi.php';
               </li>
               <!-- <li><a class="nav-link" href="blank.html"><i class="far fa-square"></i> <span>Blank Page</span></a></li> -->
               <li class="nav-item dropdown">
-                <a href="#" class="nav-link has-dropdown"><i class="fas fa-th"></i> <span>Siswa</span></a>
+                <a href="#" class="nav-link has-dropdown"><i class="fas fa-th"></i> <span>Kelas</span></a>
                 <ul class="dropdown-menu">
                   <li><a class="nav-link" href="bootstrap-alert.html">RPL 1</a></li>
                   <li><a class="nav-link" href="bootstrap-badge.html">RPL 2</a></li>
